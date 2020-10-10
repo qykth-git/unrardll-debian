@@ -12,6 +12,7 @@ XS-Autobuild: yes
 Homepage: https://github.com/kovidgoyal/unrardll
 Vcs-Browser: https://github.com/norbusan/unrardll-debian
 Vcs-Git: https://github.com/norbusan/unrardll-debian.git
+Rules-Requires-Root: no
 
 Package: python3-unrardll
 Architecture: any
