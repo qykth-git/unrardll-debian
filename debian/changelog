@@ -1,3 +1,9 @@
+unrardll (0.1.7+ds1-7) unstable; urgency=medium
+
+  * Rebuild with Python 3.15
+
+ -- YOKOTA Hiroshi <yokota.hgml@gmail.com>  Tue, 27 Oct 2026 08:04:55 +0900
+
 unrardll (0.1.7+ds1-6) unstable; urgency=medium
 
   * Limit architectures that debusine builder works
